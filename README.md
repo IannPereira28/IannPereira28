@@ -1,4 +1,4 @@
-[![MasterHead](https://www.infoworld.com/wp-content/uploads/2024/06/shutterstock_1361674454-100939444-orig.jpg?quality=50&strip=all)](https://github.com/IannPereira28)
+
 <h1 align="left">👋 Olá, eu sou o Iann Matheus!</h1>
 <br>
 <h2 align="left">💻 Desenvolvedor em Início de Jornada 🌟</h2>
