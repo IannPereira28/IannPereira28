@@ -1,16 +1,150 @@
+# 👨🏽‍💻 Iann Pereira
 
-<h1 align="left">👋 Olá, eu sou o Iann Matheus!</h1>
-<br>
-<h2 align="left">💻 Desenvolvedor em Início de Jornada 🌟</h2>
-<br>
-Sou apaixonado por tecnologia e estou embarcando na minha jornada como desenvolvedor, estou em transição de carreira para o mundo do desenvolvimento web.
-Sempre buscando aprender e me aprimorar cada dia mais. 🚀
-<br>
-<br>
-<h3 align="left">Tecnologias</h3>
-<br>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" />
-<h4>Meu Linkedin</h4>
-<a href="https://www.linkedin.com/in/iann-pereira-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+**`Desenvolvedor Front-End`**
+
+Me chamo Iann Matheus, tenho 29 anos e sou natural do Pará. Sou um desenvolvedor front-end movido pela paixão de transformar ideias em experiências digitais envolventes. Com uma sólida base em desenvolvimento web e um olhar atento para o design, estou sempre explorando novas possibilidades para criar soluções inovadoras e intuitivas.
+
+Minha trajetória na tecnologia vai além do código, é uma jornada de descoberta e evolução constante. Em plena transição de carreira para o mundo do desenvolvimento web, mergulho cada vez mais fundo nesse universo dinâmico, impulsionado pela curiosidade e pelo desejo de aprendizado. Cada desafio é uma oportunidade para crescer e aprimorar minhas habilidades, sempre buscando entregar o melhor em cada projeto.
+
+A tecnologia é minha paixão e meu caminho. Estou pronto para construir experiências impactantes e seguir aprendendo, dia após dia! 🚀
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+<br/>
+<br/>
+
+---
+
+### 🤖 📘 Tecnologias que estou estudando
+
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+ <br/>
+ <br/>
+
+---
+
+### Meu LinkedIn
+<a href="https://www.linkedin.com/in/iann-pereira-dev/">
+<img 
+    align="left" 
+    alt="LikedIn" 
+    title="LikedIn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+/>
+</a>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center" style="display: flex; gap: 20px;">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Iannpereira28&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iannpereira28&theme=radical&layout=donut&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</div>
